@@ -32,12 +32,9 @@ body {
     margin-right: 10px;
 }
 
-.portfolio-row{
-    margin-bottom: 25px;
-}
-
 .portfolio-img{
     width: 350px;
     height: 350px;
+    margin-bottom: 25px;
 }
 
