@@ -1,7 +1,8 @@
+/* Styling for tabs in the nav bar */
 ul {
     direction: rtl;
 }
-
+/* Consistent stylings across all pages */
 body {
     background: url('images/Background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -26,12 +27,14 @@ body {
     padding: 30px;
 }
 
+/* Styling for the image on the About Me page */
 .about-me-img{
     width: 450px;
     height: 300px;
     margin-right: 10px;
 }
 
+/* Styling for the thumbnails on the Portfolio page */
 .portfolio-img{
     width: 350px;
     height: 350px;
