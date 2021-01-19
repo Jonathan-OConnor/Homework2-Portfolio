@@ -4,10 +4,15 @@
 A responsive webpage contaning a page describing myself, a page detailing my portfolio, and a page to contact me.
 
 ## Screenshots demonstrating responsive design:
+# About Me
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Desktop-About-Me.png?raw=true)
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Mobile-About-Me.png?raw=true)
+
+# Portfolio
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Desktop-Portfolio.png?raw=true)
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Mobile-Portfolio.png?raw=true)
+
+# Contact
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Desktop-Contact-Me.png?raw=true)
 ![Webpage Image](https://github.com/Jonathan-OConnor/Homework2-Portfolio/blob/main/assets/images/Mobile-Contact-Me.png?raw=true)
 
